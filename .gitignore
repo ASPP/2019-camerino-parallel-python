@@ -1,4 +1,5 @@
 # custom things to ignore
+mydask.png
 dask-worker-space/*
 
 # Byte-compiled / optimized / DLL files
